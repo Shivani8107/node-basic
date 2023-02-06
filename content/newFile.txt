@@ -1,0 +1,3 @@
+This is original content of this fileHere is result: First file, Second fileHere is result: First file, Second file 
+ abcHere is result: First file, Second file 
+ abc
